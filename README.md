@@ -26,3 +26,21 @@ Começando pelo tema do projeto: upload de imagens. Como o desenvolvimento do ze
 
 <img src="https://i.ibb.co/xjVDc7d/imagem-2022-01-23-030712.png">
 <img src="https://i.ibb.co/xfgSNFH/imagem-2022-01-23-030835.png">
+
+# Instalação
+
+Instale as dependências com ```yarn```
+
+Inicie a aplicação com ```yarn dev```
+
+# Instação ImgBB
+
+1. [Criar uma conta no ImgBB](imgbb.com/login)
+2. [Criar a sua chave da API](https://api.imgbb.com)
+3. Copiar o valor dessa chave e colar no seu `.env.local` da seguinte forma:
+`NEXT_PUBLIC_IMGBB_API_KEY=VALOR_DA_CHAVE_COPIADA`
+
+# Instação FaunaDB
+
+Tudo que você precisa fazer é criar um banco no FaunaDB com um nome de sua preferência que precisa ter uma coleção chamada `images`. Com o banco e coleção criados, basta você criar e copiar a chave do banco no seu arquivo `.env.local` da seguinte forma:
+ `FAUNA_API_KEY=VALOR_DA_CHAVE_COPIADA`

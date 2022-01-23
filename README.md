@@ -35,7 +35,7 @@ Inicie a aplicação com ```yarn dev```
 
 # Instação ImgBB
 
-1. [Criar uma conta no ImgBB](imgbb.com/login)
+1. Criar uma conta no ImgBB
 2. [Criar a sua chave da API](https://api.imgbb.com)
 3. Copiar o valor dessa chave e colar no seu `.env.local` da seguinte forma:
 `NEXT_PUBLIC_IMGBB_API_KEY=VALOR_DA_CHAVE_COPIADA`

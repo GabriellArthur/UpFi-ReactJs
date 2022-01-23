@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Começando pelo tema do projeto: upload de imagens. Como o desenvolvimento do zero acarretaria em um projeto muito grande, fornecemos no template a maior parte do projeto já implementada para que você tenha que trabalhar apenas com 4 arquivos. A ideia é que nesses 4 arquivos você tenha um pouco de contato com os 3 principais pontos que queremos abordar nesse projeto: React Query, React Hook Form e Chakra UI.
+Começando pelo tema do projeto: upload de imagens. Como o desenvolvimento do zero acarretaria em um projeto muito grande. A ideia é que nesses 4 arquivos você tenha um pouco de contato com os 3 principais pontos que queremos abordar nesse projeto: React Query, React Hook Form e Chakra UI.
 </p>
 
 # Tecnologias
